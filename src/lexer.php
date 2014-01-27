@@ -1,6 +1,6 @@
 <?php
 
-require_once '../vendor/autoload.php';
+require_once __DIR__.'/../vendor/autoload.php';
 
 $loader = new Twig_Loader_Array(array(
     'test' => '|# This is a test #| My name is || name ||.'
