@@ -1,4 +1,4 @@
-twig-lexer-test
+Twig lexer test
 ===============
 
 A simple Twig_Lexer test
